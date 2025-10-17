@@ -2,9 +2,9 @@ console.log("About.JS");
 
 // all images
 let images = [
-  "../Images-Videos/AIbanner.png",
-  "../Images-Videos/digitalBanner.png",
-  "../Images-Videos/digitalworkBanner.png",
+  "Images-Videos/AIbanner.png",
+  "Images-Videos/digitalBanner.png",
+  "Images-Videos/digitalworkBanner.png",
 ];
 
 // html elements
