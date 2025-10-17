@@ -76,7 +76,7 @@ function switchWhite() {
 
   // logo and theme
   if (logo) {
-    logo.innerHTML = `<img src="../Images-Videos/logoBlack.png" alt="logo">`;
+    logo.innerHTML = `<img src="Images-Videos/logoBlack.png" alt="logo">`;
   }
 
   if (theme) {
@@ -84,7 +84,7 @@ function switchWhite() {
   }
 
   if (footerLogo) {
-    footerLogo.innerHTML = `<img src="../Images-Videos/logoBlack.png" alt="Logo">`;
+    footerLogo.innerHTML = `<img src="Images-Videos/logoBlack.png" alt="Logo">`;
   }
 }
 
@@ -135,7 +135,7 @@ function switchDark() {
 
   // theme and logo
   if (logo) {
-    logo.innerHTML = `<img src="../Images-Videos/logoWhite.png" alt="logo">`;
+    logo.innerHTML = `<img src="Images-Videos/logoWhite.png" alt="logo">`;
   }
 
   if (theme) {
@@ -143,7 +143,7 @@ function switchDark() {
   }
 
   if (footerLogo) {
-    footerLogo.innerHTML = `<img src="../Images-Videos/logoWhite.png" alt="Logo">`;
+    footerLogo.innerHTML = `<img src="Images-Videos/logoWhite.png" alt="Logo">`;
   }
 }
 
