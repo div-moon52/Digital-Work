@@ -1,0 +1,88 @@
+/* Custom Utility Class */
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.m2 {
+  margin: 0px 20px;
+}
+
+.m3 {
+  margin: 20px 0;
+}
+
+.p2 {
+  padding: 0px 10px;
+}
+
+.darkMode {
+  color: white;
+  background-color: #09243b;
+  transition: all 0.5s ease;
+}
+
+.whiteMode {
+  background-color: #f1f1f1;
+  color: black;
+  transition: all 0.5s ease;
+}
+
+/* specialy for footer section-1*/
+.footerS1D {
+  background-color: #072946;
+  color: white;
+}
+
+/* specialy for footer section-1*/
+.footerS1W {
+  background-color: #d5d5d5;
+  color: black;
+}
+
+/* specialy for footer section-2*/
+.footerS2D {
+  background-color: #081d2f;
+  color: white;
+}
+
+/* specialy for footer section-2*/
+.footerS2W {
+  background-color: #9d9d9d;
+  color: black;
+}
+
+.darkBox {
+  background-color: #0f3a60;
+  transition: all 0.5s ease;
+}
+
+.whiteBox {
+  background-color: #bdbdbd;
+  transition: all 0.5s ease;
+}
+
+.overDark {
+  background-color: #1e5586;
+  color: white;
+}
+
+.overWhite {
+  background-color: #d4d4d4;
+  color: black;
+}
+
+.border {
+  outline: 1px solid #979797;
+  opacity: 1;
+  transition: all 0.3s ease;
+}
