@@ -5,42 +5,42 @@ console.log('work.js')
 let cardsArr = [
     {
         id: 1,
-        image: '../Images-Videos/robot-AI.jpg',
+        image: 'Images-Videos/robot-AI.jpg',
         title: 'AI Robotics'
     },
     {
         id: 2,
-        image: '../Images-Videos/robotics-head.jpg',
+        image: 'Images-Videos/robotics-head.jpg',
         title: 'Machine Learning'
     },
     {
         id: 3,
-        image: '../Images-Videos/business-chart.png',
+        image: 'Images-Videos/business-chart.png',
         title: 'Business'
     },
     {
         id: 4,
-        image: '../Images-Videos/devICON.png',
+        image: 'Images-Videos/devICON.png',
         title: 'Development'
     },
     {
         id: 5,
-        image: '../Images-Videos/cyber-lock.jpg',
+        image: 'Images-Videos/cyber-lock.jpg',
         title: 'Ethical Hacking'
     },
     {
         id: 6,
-        image: '../Images-Videos/cyber-world.png',
+        image: 'Images-Videos/cyber-world.png',
         title: 'Cyber Security'
     },
     {
         id: 7,
-        image: '../Images-Videos/monitor.jpg',
+        image: 'Images-Videos/monitor.jpg',
         title: 'Editing'
     },
     {
         id: 8,
-        image: '../Images-Videos/graphics-car.png',
+        image: 'Images-Videos/graphics-car.png',
         title: 'Graphics Work'
     }
 ]
